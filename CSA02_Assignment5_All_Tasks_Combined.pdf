@@ -1,0 +1,12411 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 20
+/Kids [ 3 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 4325
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 677.1496 cm
+Q
+q
+1 0 0 1 40.01575 663.1496 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+193.447 0 Td
+(CSA02 \055 C PROGRAMMING) Tj
+T*
+-193.447 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 627.1496 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 5 Tm
+/F2 21 Tf
+26 TL
+178.8615 0 Td
+(ASSIGNMENT 5) Tj
+T*
+-178.8615 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 605.1496 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+78.99205 0 Td
+(MODULAR\054 MEMORY\055AWARE AND PERSISTENT PROGRAM ENGINEERING) Tj
+T*
+-78.99205 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 566.8031 cm
+Q
+q
+1 0 0 1 42.51969 498.8031 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(Assignment 5 \055 Complete task solutions) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(50) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 470.4567 cm
+Q
+q
+1 0 0 1 40.01575 451.4567 cm
+q
+BT
+1 0 0 1 0 4 Tm
+13 TL
+/F2 9 Tf
+0.121569 0.160784 0.2 rg
+(Student\072) Tj
+/F1 9 Tf
+( R\056 Surya  ) Tj
+(  ) Tj
+/F2 9 Tf
+(Register No\056\072) Tj
+/F1 9 Tf
+( 1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 435.4567 cm
+q
+BT
+1 0 0 1 0 2.2 Tm
+10 TL
+/F2 7.8 Tf
+0.356863 0.403922 0.439216 rg
+(GitHub link supplied\072) Tj
+/F1 7.8 Tf
+( ) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 406.4567 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 36 re
+B*
+Q
+q
+BT
+1 0 0 1 0 15.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository naming reminder\072 Required name is CSA02\0551924260114\055Assignment5\056 The link above is the previously supplied) Tj
+T*
+(Assignment 4 URL and must be verified before submission\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 372.4567 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(This document contains Part A \050A1\055A5\051 and Part B \050B1\055B4\051\056 Actual stress\055test thresholds\054 file benchmark timings and) Tj
+T*
+(memory\055check results are deliberately left for the student to obtain on their own system\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+10 0 obj
+<<
+/Length 9302
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 700.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 31 Tm
+/F2 21 Tf
+26 TL
+-0.079701 Tw
+(A1 Functional Decomposition \174 A1 \055 Decompose the) Tj
+T*
+0 Tw
+139.1925 0 Td
+(Program into Functions) Tj
+T*
+-139.1925 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 678.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 600.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(A1 \055 Decompose the Program into Functions) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(7) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 592.3622 cm
+Q
+q
+1 0 0 1 40.01575 551.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 529.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A1\0561 \055 Function decomposition and structure chart \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 497.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(The blood\055bank application should be divided by responsibility\056 Each function should perform one clear operation and) Tj
+T*
+(communicate through parameters and return values rather than silently changing shared global state\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 371.9622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 113.8 Tm
+/F3 6.6 Tf
+8.6 TL
+(main\050\051) Tj
+T*
+(  \174\055\055 parse\137command\137line\050\051) Tj
+T*
+(  \174\055\055 load\137donors\050\051) Tj
+T*
+(  \174\055\055 load\137stock\050\051) Tj
+T*
+(  \174\055\055 register\137donor\050\051 \057 find\137eligible\137donors\050\051) Tj
+T*
+(  \174\055\055 record\137donation\050\051 \057 issue\137units\050\051) Tj
+T*
+(  \174      \174\055\055 validate\137donor\050\051) Tj
+T*
+(  \174      \174\055\055 is\137eligible\050\051) Tj
+T*
+(  \174      \174\055\055 find\137stock\137record\050\051) Tj
+T*
+(  \174      \174\055\055 update\137stock\050\051) Tj
+T*
+(  \174\055\055 save\137donors\050\051) Tj
+T*
+(  \174\055\055 save\137stock\050\051) Tj
+T*
+(  \174\055\055 print\137report\050\051) Tj
+T*
+(  \174\055\055 free\137donor\137list\050\051) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 349.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Recommended function responsibilities) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 201.9622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 144 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 126 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 108 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 90 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 72 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 54 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 36 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 130 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Function) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 130 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Responsibility) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 112 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(register\137donor) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 112 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Validate fields and append one donor to the growable list\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(is\137eligible) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 94 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Apply the approved eligibility policy for a specified date\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(find\137eligible\137donors) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 76 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Filter donors by blood group and eligibility\073 collect count and youngest ID\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(update\137stock) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Apply a checked signed change to one blood\055group stock record\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(save\137donors \057 load\137donors) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Persist donor records and restore them at startup\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(save\137stock \057 load\137stock) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Persist fixed\055size stock records\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(free\137donor\137list) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Release the dynamic array and reset its metadata\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 144 m
+510.2362 144 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 144 l
+S
+n
+510.2362 0 m
+510.2362 144 l
+S
+n
+0 126 m
+510.2362 126 l
+S
+n
+0 108 m
+510.2362 108 l
+S
+n
+0 90 m
+510.2362 90 l
+S
+n
+0 72 m
+510.2362 72 l
+S
+n
+0 54 m
+510.2362 54 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+119.0551 0 m
+119.0551 144 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 179.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A1\0562 \055 Function interfaces and parameter decisions \0503 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 134.9622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Use values for small scalar inputs \050IDs\054 counts\054 enum values\051\054 pointers when a function must modify an object or avoid copying a) Tj
+T*
+(large structure\054 and const pointers when an object is read\055only\056 A pointer to a donor passed for inspection should normally be) Tj
+T*
+(const\055qualified\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 61.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 62.2 Tm
+/F3 6.6 Tf
+8.6 TL
+(\043include \074stddef\056h\076) Tj
+T*
+(\043include \074stdbool\056h\076) Tj
+T*
+T*
+(typedef struct \173 int day\054 month\054 year\073 \175 Date\073) Tj
+T*
+(typedef struct \173) Tj
+T*
+(    int id\073) Tj
+T*
+(    char name\13364\135\073) Tj
+T*
+(    char blood\137group\1334\135\073) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+11 0 obj
+<<
+/Contents 12 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+12 0 obj
+<<
+/Length 9979
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 3) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 595.7622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 174 Tm
+/F3 6.6 Tf
+8.6 TL
+(    int age\073) Tj
+T*
+(    char phone\13316\135\073) Tj
+T*
+(    Date last\137donation\073) Tj
+T*
+(\175 Donor\073) Tj
+T*
+(typedef struct \173 char blood\137group\1334\135\073 int units\073 \175 Stock\073) Tj
+T*
+(typedef struct \173 Donor \052data\073 size\137t size\054 capacity\073 \175 DonorList\073) Tj
+T*
+(typedef struct \173 size\137t count\073 int youngest\137id\073 bool found\137youngest\073 \175 EligibilitySummary\073) Tj
+T*
+T*
+(int validate\137donor\050const Donor \052donor\051\073) Tj
+T*
+(int add\137donor\050DonorList \052list\054 const Donor \052candidate\051\073) Tj
+T*
+(bool is\137eligible\050const Donor \052donor\054 Date as\137of\051\073) Tj
+T*
+(size\137t find\137eligible\137donors\050const Donor \052donors\054 size\137t count\054) Tj
+T*
+(                            const char \052blood\137group\054 Date as\137of\054) Tj
+T*
+(                            int \052youngest\137id\051\073) Tj
+T*
+(EligibilitySummary summarize\137eligible\050const Donor \052donors\054 size\137t count\054) Tj
+T*
+(                                      const char \052blood\137group\054 Date as\137of\051\073) Tj
+T*
+(int update\137stock\050Stock \052stock\054 size\137t stock\137count\054) Tj
+T*
+(                 const char \052blood\137group\054 int delta\051\073) Tj
+T*
+(int save\137donors\137text\050const char \052path\054 const Donor \052donors\054 size\137t count\051\073) Tj
+T*
+(int load\137donors\137text\050const char \052path\054 DonorList \052list\051\073) Tj
+T*
+(void free\137donor\137list\050DonorList \052list\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 442.7622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 146 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 128 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 110 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 92 510.2362 -28 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 64 510.2362 -28 re
+f*
+1 1 1 rg
+n
+0 36 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 132 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Parameter) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 132 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Choice) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 243.1102 132 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Reason) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 114 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(const Donor \052donor) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 114 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Pointer to const) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 243.1102 114 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Read one donor without copying\073 function must not modify it\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 96 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(DonorList \052list) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 96 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Mutable pointer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 243.1102 96 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Append may replace the allocation and change size\057capacity\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(const Donor \052donors \053 size\137t) Tj
+T*
+(count) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 78 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Pointer \053 value) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 243.1102 78 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Read\055only array plus its length\073 no global dependency\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(int \052youngest\137id) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Output pointer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 243.1102 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Allows a second result\073 document that it is written only when a donor is) Tj
+T*
+(found\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Stock \052stock) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Mutable pointer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 243.1102 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Stock units must be changed in the caller\055owned array\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(const char \052path) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Pointer to const char) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 243.1102 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Path is read\055only\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 146 m
+510.2362 146 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 146 l
+S
+n
+510.2362 0 m
+510.2362 146 l
+S
+n
+0 128 m
+510.2362 128 l
+S
+n
+0 110 m
+510.2362 110 l
+S
+n
+0 92 m
+510.2362 92 l
+S
+n
+0 64 m
+510.2362 64 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+119.0551 0 m
+119.0551 146 l
+S
+n
+238.1102 0 m
+238.1102 146 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 420.7622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A1\0563 \055 Returning more than one value \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 388.7622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(Alternative 1\072 output parameter\056 Return the eligible count as the function result and write the youngest donor ID through an output) Tj
+T*
+(pointer\056 Initialize the output to a sentinel \050for example\054 \0551\051 before scanning and return a count of zero when none qualifies\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 340.7622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 36.4 Tm
+/F3 6.6 Tf
+8.6 TL
+(size\137t find\137eligible\137donors\050const Donor \052d\054 size\137t n\054) Tj
+T*
+(                            const char \052group\054 Date as\137of\054) Tj
+T*
+(                            int \052youngest\137id\051\073) Tj
+T*
+(\057\052 Caller\072 int youngest \075 \0551\073) Tj
+T*
+(   size\137t count \075 find\137eligible\137donors\050d\054 n\054 \042O\053\042\054 today\054 \046youngest\051\073 \052\057) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 307.7622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(Alternative 2\072 return a structure\056 This groups related results\054 makes future fields easy to add\054 and avoids an output pointer\056 It is) Tj
+T*
+(generally clearer when several values form one logical answer\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 268.3622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 27.8 Tm
+/F3 6.6 Tf
+8.6 TL
+(EligibilitySummary summarize\137eligible\050const Donor \052d\054 size\137t n\054) Tj
+T*
+(                                      const char \052group\054 Date as\137of\051\073) Tj
+T*
+(\057\052 Caller\072 EligibilitySummary result \075 summarize\137eligible\050d\054 n\054 \042O\053\042\054 today\051\073) Tj
+T*
+(   use result\056count and result\056found\137youngest\057result\056youngest\137id\056 \052\057) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 246.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Alternative concept \055 global variables and complexity) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 175.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 56 Tm
+/F1 9 Tf
+13 TL
+(Using globals would remove some parameters\054 but it would not improve the algorithmic running time or asymptotic memory\072) Tj
+T*
+(scanning n donors remains O\050n\051\054 the donor array remains O\050n\051\054 and auxiliary scan state remains O\0501\051 \050or O\050k\051 if a separate result) Tj
+T*
+(list is built\051\056 It increases coupling because functions depend on hidden program state\054 complicates unit tests \050tests must reset) Tj
+T*
+(globals\051\054 makes reuse harder\054 and increases the risk that one function unexpectedly changes data another function relies on\056) Tj
+T*
+(Explicit parameters make dependencies visible\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 153.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Evidence \057 implementation checklist) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 135.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f204472617720746865207374727563747572652063686172742061626f7665206e6561746c7920696e20746865207265706f7274206f72207265706c616365206974207769746820612067726170686963616c2063686172742e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 117.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20496d706c656d656e742070726f746f747970657320776974682074686520636f6e737420616e6420706f696e746572206465636973696f6e732073686f776e2e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 99.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f2054657374207a65726f20646f6e6f72732c206e6f206d61746368696e6720626c6f6f642067726f75702c206f6e6520656c696769626c6520646f6e6f7220616e64206d756c7469706c6520656c696769626c6520646f6e6f72732e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 69.3622 cm
+q
+BT
+1 0 0 1 12 15.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205265636f72642074686520636f756e7420616e6420796f756e6765737420656c696769626c6520646f6e6f7220494420666f72206561636820746573743b207573652074686520656c69676962696c69747920706f6c696379207370656369666965642062792074686520666163756c7479206f722072656c6576616e7420617574686f726974792c> Tj
+T*
+7 0 Td
+(not an invented threshold\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+13 0 obj
+<<
+/Contents 14 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+14 0 obj
+<<
+/Length 9180
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 4) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 726.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 5 Tm
+/F2 21 Tf
+26 TL
+8.446547 0 Td
+(A2 Recursive Design \174 A2 \055 Design with Recursion) Tj
+T*
+-8.446547 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 704.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 626.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(A2 \055 Design with Recursion) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 618.3622 cm
+Q
+q
+1 0 0 1 40.01575 577.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 555.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A2\0561 \055 Recursive designs \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 510.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Digital root\072 repeatedly sum the decimal digits until one digit remains\056 Use a helper to sum the digits recursively\054 then apply) Tj
+T*
+(digital\137root again to that sum\056 Base case\072 n is a single digit \050including zero\051\056 Recursive case\072 apply digital\137root\050sum\137digits\050n\051\051\056) Tj
+T*
+(Negative IDs should be rejected or converted according to an explicit input rule before recursion\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 290.3622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 208.4 Tm
+/F3 6.6 Tf
+8.6 TL
+(SUM\137DIGITS\050n\051) Tj
+T*
+(    IF n \074 10) Tj
+T*
+(        RETURN n) Tj
+T*
+(    END IF) Tj
+T*
+(    RETURN \050n MOD 10\051 \053 SUM\137DIGITS\050n DIV 10\051) Tj
+T*
+(END SUM\137DIGITS) Tj
+T*
+T*
+(DIGITAL\137ROOT\050n\051) Tj
+T*
+(    IF n \074 10) Tj
+T*
+(        RETURN n) Tj
+T*
+(    END IF) Tj
+T*
+(    RETURN DIGITAL\137ROOT\050SUM\137DIGITS\050n\051\051) Tj
+T*
+(END DIGITAL\137ROOT) Tj
+T*
+T*
+(POWER\137FAST\050base\054 n\051) Tj
+T*
+(    IF n \075 0) Tj
+T*
+(        RETURN 1) Tj
+T*
+(    END IF) Tj
+T*
+(    half \074\055 POWER\137FAST\050base\054 n DIV 2\051   \057\057 exactly one recursive call) Tj
+T*
+(    result \074\055 half \052 half) Tj
+T*
+(    IF n MOD 2 \075 1) Tj
+T*
+(        result \074\055 result \052 base) Tj
+T*
+(    END IF) Tj
+T*
+(    RETURN result) Tj
+T*
+(END POWER\137FAST) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 268.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A2\0562 \055 Call traces and recurrences \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 223.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Digital\055root trace for 9875\072 SUM\137DIGITS\0509875\051 \075 9\0538\0537\0535 \075 29\073 DIGITAL\137ROOT\05029\051 calls DIGITAL\137ROOT\0502\0539\07511\051\073) Tj
+T*
+(DIGITAL\137ROOT\05011\051 calls DIGITAL\137ROOT\0501\0531\0752\051\073 DIGITAL\137ROOT\0502\051 returns 2\056 The deepest chain is 9875 \055\076 29 \055\076 11 \055\076 2\054) Tj
+T*
+(with the digit\055sum helper calls nested while each sum is computed\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 191.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(Power trace for 2\13610 using halving\072 POWER\137FAST\0502\05410\051 \055\076 POWER\137FAST\0502\0545\051 \055\076 POWER\137FAST\0502\0542\051 \055\076 POWER\137FAST\0502\0541\051) Tj
+T*
+(\055\076 POWER\137FAST\0502\0540\051\056 Return values unwind as 1\054 2\054 4\054 32\054 1024\056 The call stack is deepest at exponent 0\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 94.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 92 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 74 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 56 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 38 510.2362 -38 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 78 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Method) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 112.7165 78 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Recurrence \050calls\057work\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 299.8031 78 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Time) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 384.8425 78 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Stack space) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 60 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Linear power) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 112.7165 60 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(C\050n\051\075C\050n\0551\051\0531\054 C\0500\051\0751) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 299.8031 60 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 384.8425 60 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Halving power) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 112.7165 42 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(C\050n\051\075C\050floor\050n\0572\051\051\0531\054 C\0500\051\0751) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 299.8031 42 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050log n\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 384.8425 42 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050log n\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 24 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Recursive digital root) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 112.7165 24 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Digit\055sum calls plus repeated digit reductions) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 299.8031 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 22.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050d\051 for d digits) Tj
+T*
+(\050constant\055factor digit) Tj
+T*
+(passes\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 384.8425 24 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050d\051 worst\055case call stack) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 92 m
+510.2362 92 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 92 l
+S
+n
+510.2362 0 m
+510.2362 92 l
+S
+n
+0 74 m
+510.2362 74 l
+S
+n
+0 56 m
+510.2362 56 l
+S
+n
+0 38 m
+510.2362 38 l
+S
+n
+107.7165 0 m
+107.7165 92 l
+S
+n
+294.8031 0 m
+294.8031 92 l
+S
+n
+379.8425 0 m
+379.8425 92 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 72.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A2\0563 \055 Recursion risks \0501 mark\051) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+15 0 obj
+<<
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+16 0 obj
+<<
+/Length 3980
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 5) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 737.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Without a reachable base case\054 recursion continues until the call stack is exhausted\054 commonly ending in a stack overflow or) Tj
+T*
+(abnormal termination\056 Prefer a loop when the recurrence is naturally repetitive\054 input can be very large\054 stack depth is a concern\054) Tj
+T*
+(or the loop is easier to read and test\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 715.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Alternative\072 iterative or direct digital root) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 590.9622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 113.8 Tm
+/F3 6.6 Tf
+8.6 TL
+(int digital\137root\137formula\050unsigned long long n\051 \173) Tj
+T*
+(    if \050n \075\075 0\051 return 0\073) Tj
+T*
+(    return 1 \053 \050int\051\050\050n \055 1\051 \045 9\051\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(long long power\137iterative\050long long base\054 unsigned int exp\051 \173) Tj
+T*
+(    long long result \075 1\073) Tj
+T*
+(    while \050exp \076 0\051 \173) Tj
+T*
+(        if \050exp \046 1U\051 result \052\075 base\073) Tj
+T*
+(        exp \076\076\075 1U\073) Tj
+T*
+(        if \050exp \076 0\051 base \052\075 base\073) Tj
+T*
+(    \175) Tj
+T*
+(    return result\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 544.9622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(The digital\055root formula is O\0501\051 time and O\0501\051 space for an integer of fixed machine width\056 A loop that sums digits is O\050d\051 time and) Tj
+T*
+(O\0501\051 space\056 Recursive digit processing uses O\050d\051 stack space\056 Iterative square\055and\055multiply is O\050log n\051 time and O\0501\051 extra) Tj
+T*
+(space\073 halving recursion has the same time but O\050log n\051 stack\056 Linear recursive power is O\050n\051 time and O\050n\051 stack\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 522.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Caution on numeric range) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 490.9622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(Signed integer overflow in C is undefined behaviour\056 The simple power examples are valid only when the result fits in long long\056 A) Tj
+T*
+(production implementation should validate the exponent\057base combination or use checked multiplication before multiplying\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 468.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Evidence checklist) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 450.9622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f2053686f772074686520726563757273696f6e2074726163657320616e6420746865206465657065737420737461636b2073746174652e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 432.9622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20496e636c75646520746573747320666f72206e203d20302c206e203d20312c2061207479706963616c2076616c756520616e642061206c61726765722076616c75652e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 402.9622 cm
+q
+BT
+1 0 0 1 12 15.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20466f7220726563757273696f6e2d6c696d6974206d6561737572656d656e74732c207265636f7264206d616368696e652c20636f6d70696c65722c206f7074696d697a6174696f6e206c6576656c20616e64206578616374206c617267657374207375636365737366756c206578706f6e656e743b20746869732076616c7565206973> Tj
+T*
+7 0 Td
+(environment\055dependent and is not filled in here\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+18 0 obj
+<<
+/Length 8761
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 6) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 726.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 5 Tm
+/F2 21 Tf
+26 TL
+31.79855 0 Td
+(A3 Pointer Design \174 A3 \055 Design with Pointers) Tj
+T*
+-31.79855 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 704.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 626.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(A3 \055 Design with Pointers) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 618.3622 cm
+Q
+q
+1 0 0 1 40.01575 577.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 555.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A3\0561 \055 Pointer operations \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 523.3622 cm
+q
+BT
+1 0 0 1 0 17 Tm
+-0.000328 Tw
+13 TL
+/F1 9 Tf
+0.121569 0.160784 0.2 rg
+(Given ) Tj
+/F3 9 Tf
+(int stock\1338\135\073 int \052p \075 stock\073) Tj
+/F1 9 Tf
+(\054 the pointer initially addresses element zero\056 Pointer arithmetic advances in units of) Tj
+T*
+0 Tw
+(the pointed\055to type\054 so p\0533 advances by 3\052sizeof\050int\051 bytes\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 428.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 90 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 72 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 54 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 36 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 76 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Expression) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 104.2126 76 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Meaning) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(p \053 3) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 104.2126 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Address of stock\1333\135\054 the fourth element\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\052\050p \053 3\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 104.2126 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Value stored in stock\1333\135\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(p\1333\135) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 104.2126 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Equivalent to \052\050p \053 3\051\073 value of the fourth element\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\052p\053\053) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 104.2126 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Read the current value \050\052p\051\054 then increment p to the next int\056 It is parsed as \052\050p\053\053\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 90 m
+510.2362 90 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 90 l
+S
+n
+510.2362 0 m
+510.2362 90 l
+S
+n
+0 72 m
+510.2362 72 l
+S
+n
+0 54 m
+510.2362 54 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+99.2126 0 m
+99.2126 90 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 322.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 96.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(Symbolic memory diagram \050addresses are illustrative\051) Tj
+T*
+T*
+(Address       Object        Pointer expression) Tj
+T*
+(0x1000        stock\1330\135      p) Tj
+T*
+(0x1004        stock\1331\135      p \053 1) Tj
+T*
+(0x1008        stock\1332\135      p \053 2) Tj
+T*
+(0x100C        stock\1333\135      p \053 3  \055\076 \052\050p \053 3\051 and p\1333\135) Tj
+T*
+(0x1010        stock\1334\135      p \053 4) Tj
+T*
+(\056\056\056) Tj
+T*
+(0x101C        stock\1337\135      p \053 7) Tj
+T*
+T*
+(\052 p\053\053 \072 fetch stock\1330\135\054 then p becomes 0x1004\056) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 300.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A3\0562 \055 Return a pointer to the lowest\055stock element \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 167.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 122.4 Tm
+/F3 6.6 Tf
+8.6 TL
+(\043include \074stddef\056h\076) Tj
+T*
+T*
+(int \052lowest\137stock\050int \052stock\054 size\137t count\051) Tj
+T*
+(\173) Tj
+T*
+(    if \050stock \075\075 NULL \174\174 count \075\075 0\051 return NULL\073) Tj
+T*
+(    size\137t min\137index \075 0\073) Tj
+T*
+(    for \050size\137t i \075 1\073 i \074 count\073 \053\053i\051 \173) Tj
+T*
+(        if \050stock\133i\135 \074 stock\133min\137index\135\051 min\137index \075 i\073) Tj
+T*
+(    \175) Tj
+T*
+(    return \046stock\133min\137index\135\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(\057\052 Example\072) Tj
+T*
+(   int \052lowest \075 lowest\137stock\050stock\054 8\051\073) Tj
+T*
+(   if \050lowest \041\075 NULL\051 \052lowest \053\075 5\073 \052\057) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 108.1622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 43 Tm
+/F1 9 Tf
+13 TL
+(The returned pointer refers to an element of the caller\055owned array\054 whose lifetime continues after the function returns\056 Returning) Tj
+T*
+(the address of a local variable is wrong because that object ceases to exist when the function returns\073 the pointer becomes) Tj
+T*
+(dangling and dereferencing it is undefined behaviour\056 The caller must also ensure the array remains alive and is not reallocated) Tj
+T*
+(while the pointer is in use\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 86.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A3\0563 \055 Command\055line interface using argc and argv \0501 mark\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 56.3622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 19.2 Tm
+/F3 6.6 Tf
+8.6 TL
+(Usage\072) Tj
+T*
+(  bloodbank find O\053) Tj
+T*
+(  bloodbank issue A\055 2) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+19 0 obj
+<<
+/Contents 20 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+20 0 obj
+<<
+/Length 3390
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 7) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 707.5622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 62.2 Tm
+/F3 6.6 Tf
+8.6 TL
+(Argument layout\072) Tj
+T*
+(  find\072  argc \075\075 3\054 argv\1331\135 \075\075 \042find\042\054 argv\1332\135 \075\075 blood group) Tj
+T*
+(  issue\072 argc \075\075 4\054 argv\1331\135 \075\075 \042issue\042\054 argv\1332\135 \075\075 blood group\054) Tj
+T*
+(         argv\1333\135 \075\075 positive integer units) Tj
+T*
+T*
+(Reject unknown commands\054 wrong argc\054 invalid blood groups\054 non\055numeric) Tj
+T*
+(unit counts\054 zero\057negative units and integer overflow\056 Print usage and) Tj
+T*
+(return a non\055zero exit status for invalid input\056) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 685.5622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Alternative\072 return an index instead of a pointer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 621.3622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 53.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(size\137t lowest\137stock\137index\050const int \052stock\054 size\137t count\051 \173) Tj
+T*
+(    size\137t min\137index \075 0\073) Tj
+T*
+(    for \050size\137t i \075 1\073 i \074 count\073 \053\053i\051) Tj
+T*
+(        if \050stock\133i\135 \074 stock\133min\137index\135\051 min\137index \075 i\073) Tj
+T*
+(    return min\137index\073 \057\052 caller must check count \076 0 first \052\057) Tj
+T*
+(\175) Tj
+T*
+(\057\052 Caller\072 if \050count \076 0\051 stock\133lowest\137stock\137index\050stock\054 count\051\135 \053\075 5\073 \052\057) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 575.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Both methods scan once\072 O\050n\051 time and O\0501\051 auxiliary space\056 A pointer is convenient for immediate in\055place update\054 but becomes) Tj
+T*
+(invalid if the array is freed or reallocated\056 An index can be stored and re\055applied after reallocation\054 provided the logical order has) Tj
+T*
+(not changed\073 the index still needs bounds checking\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 553.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Evidence checklist) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 535.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20447261772065696768742063656c6c7320776974682061646472657373657320616e64206d61726b20702c20702b3320616e642074686520656666656374206f6620702b2b2e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 517.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205465737420656d70747920696e7075742c20612073696e676c6520656c656d656e742c206120756e69717565206d696e696d756d20616e642074696564206d696e696d756d2076616c7565732e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 499.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f2053686f7720636f6d6d616e642d6c696e65206578616d706c657320666f722076616c696420616e6420696e76616c696420696e766f636174696f6e732e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+21 0 obj
+<<
+/Contents 22 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+22 0 obj
+<<
+/Length 8021
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 8) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 700.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 31 Tm
+/F2 21 Tf
+26 TL
+3.196547 0 Td
+(A4 Dynamic Memory Design \174 A4 \055 Design Dynamic) Tj
+T*
+191.9925 0 Td
+(Memory Use) Tj
+T*
+-195.189 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 678.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 600.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(A4 \055 Design Dynamic Memory Use) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(4) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 592.3622 cm
+Q
+q
+1 0 0 1 40.01575 551.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 529.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A4\0561 \055 Growable donor list \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 484.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(The donor count is not known in advance\056 Store records in a dynamic array with size and capacity\056 Start with capacity zero\073 when) Tj
+T*
+-0.064431 Tw
+(full\054 grow to 2 records initially and double thereafter\056 Use a temporary pointer for realloc so that the original allocation is not lost on) Tj
+T*
+0 Tw
+(failure\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 298.7622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 174 Tm
+/F3 6.6 Tf
+8.6 TL
+(ADD\137DONOR\050list\054 donor\051) Tj
+T*
+(    IF list\056size \075 list\056capacity) Tj
+T*
+(        IF list\056capacity \075 0) Tj
+T*
+(            new\137capacity \074\055 2) Tj
+T*
+(        ELSE) Tj
+T*
+(            new\137capacity \074\055 2 \052 list\056capacity) Tj
+T*
+(        END IF) Tj
+T*
+(        IF new\137capacity would overflow size\137t) Tj
+T*
+(            RETURN FAILURE) Tj
+T*
+(        END IF) Tj
+T*
+(        temp \074\055 realloc\050list\056data\054 new\137capacity \052 SIZEOF\050Donor\051\051) Tj
+T*
+(        IF temp \075 NULL) Tj
+T*
+(            RETURN FAILURE       \057\057 old list\056data remains valid) Tj
+T*
+(        END IF) Tj
+T*
+(        list\056data \074\055 temp) Tj
+T*
+(        list\056capacity \074\055 new\137capacity) Tj
+T*
+(    END IF) Tj
+T*
+(    list\056data\133list\056size\135 \074\055 donor) Tj
+T*
+(    list\056size \074\055 list\056size \053 1) Tj
+T*
+(    RETURN SUCCESS) Tj
+T*
+(END ADD\137DONOR) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 145.5622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 139.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(\043include \074stdint\056h\076  \057\052 SIZE\137MAX \052\057) Tj
+T*
+(\043include \074stdlib\056h\076  \057\052 realloc \052\057) Tj
+T*
+T*
+(int add\137donor\050DonorList \052list\054 const Donor \052donor\051 \173) Tj
+T*
+(    if \050list \075\075 NULL \174\174 donor \075\075 NULL\051 return 0\073) Tj
+T*
+(    if \050list\055\076size \075\075 list\055\076capacity\051 \173) Tj
+T*
+(        size\137t new\137capacity \075 \050list\055\076capacity \075\075 0\051 \077 2 \072 list\055\076capacity \052 2\073) Tj
+T*
+(        if \050new\137capacity \074 list\055\076capacity \174\174) Tj
+T*
+(            new\137capacity \076 SIZE\137MAX \057 sizeof \052list\055\076data\051 return 0\073) Tj
+T*
+(        Donor \052temp \075 realloc\050list\055\076data\054 new\137capacity \052 sizeof \052list\055\076data\051\073) Tj
+T*
+(        if \050temp \075\075 NULL\051 return 0\073) Tj
+T*
+(        list\055\076data \075 temp\073) Tj
+T*
+(        list\055\076capacity \075 new\137capacity\073) Tj
+T*
+(    \175) Tj
+T*
+(    list\055\076data\133list\055\076size\053\053\135 \075 \052donor\073) Tj
+T*
+(    return 1\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 123.5622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A4\0562 \055 Memory errors and prevention \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 73.5622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 46 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 28 510.2362 -28 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Error) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 84.37008 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Example in the blood bank) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 288.4646 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Prevention) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Memory leak) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 84.37008 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(A replacement array is allocated and the old allocation is) Tj
+T*
+(overwritten without freeing it\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 288.4646 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Use realloc on the owned pointer or free the old allocation after) Tj
+T*
+(a successful separate allocation\073 free the list once at shutdown\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 46 m
+510.2362 46 l
+S
+n
+0 0 m
+0 46 l
+S
+n
+510.2362 0 m
+510.2362 46 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 28 m
+510.2362 28 l
+S
+n
+79.37008 0 m
+79.37008 46 l
+S
+n
+283.4646 0 m
+283.4646 46 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+24 0 obj
+<<
+/Length 6952
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 524.9036 28.34646 Tm
+(Page 9) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 702.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 74 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 56 510.2362 -28 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 28 510.2362 -28 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 60 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Error) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 84.37008 60 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Example in the blood bank) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 288.4646 60 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Prevention) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 42 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Dangling pointer) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 84.37008 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(A pointer to a donor element is retained after the list is) Tj
+T*
+(freed or realloc moves the array\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 288.4646 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Do not keep element pointers across growth\057free\073 store donor) Tj
+T*
+(IDs or indices and reacquire the pointer\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Double free) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 84.37008 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(free\050list\056data\051 is called twice\054 or two owners both believe) Tj
+T*
+(they own the same pointer\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 288.4646 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Set data to NULL after free\073 define one clear owner and make) Tj
+T*
+(cleanup idempotent\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 74 m
+510.2362 74 l
+S
+n
+0 56 m
+0 74 l
+S
+n
+0 0 m
+0 56 l
+S
+n
+510.2362 56 m
+510.2362 74 l
+S
+n
+510.2362 0 m
+510.2362 56 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 56 m
+510.2362 56 l
+S
+n
+79.37008 56 m
+79.37008 74 l
+S
+n
+283.4646 56 m
+283.4646 74 l
+S
+n
+0 28 m
+510.2362 28 l
+S
+n
+79.37008 0 m
+79.37008 56 l
+S
+n
+283.4646 0 m
+283.4646 56 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 680.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Alternative\072 increase capacity by a fixed 10 records) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 635.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(With growth by fixed increments\054 the kth expansion may copy a number of records proportional to the current size\056 Across n) Tj
+T*
+(insertions\054 the total copying can sum like 10 \053 20 \053 30 \053 \056\056\056 \075 O\050n\1362\051 in the worst case \050ignoring allocator in\055place extensions\051\056) Tj
+T*
+(Doubling yields geometric growth and O\050n\051 total copied elements across n appends\054 so append is amortized O\0501\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 566.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 64 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 46 510.2362 -28 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 50 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Strategy) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 50 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Total resize\055copy work) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 288.4646 50 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Unused capacity) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Double capacity) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\051 total across n appends) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 288.4646 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+-0.026793 Tw
+(Can approach about half of allocated capacity immediately after) Tj
+T*
+0 Tw
+(a growth\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Add 10 each time) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\1362\051 worst\055case total) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 288.4646 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(At most 9 spare record slots after a successful insertion\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 64 m
+510.2362 64 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 64 l
+S
+n
+510.2362 0 m
+510.2362 64 l
+S
+n
+0 46 m
+510.2362 46 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+113.3858 0 m
+113.3858 64 l
+S
+n
+283.4646 0 m
+283.4646 64 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 544.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Ownership and cleanup rules) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 526.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20496e697469616c697a6520746865206c697374206173207b204e554c4c2c20302c2030207d2e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 508.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20446f206e6f742061737369676e207265616c6c6f63206469726563746c7920746f206c6973742d3e646174613b2073746f726520696e746f20612074656d706f7261727920706f696e7465722066697273742e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 490.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f204966207265616c6c6f63206661696c732c20707265736572766520746865206f726967696e616c20617272617920616e64207265706f7274206661696c75726520746f207468652063616c6c65722e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 472.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f2041742073687574646f776e2c2063616c6c2066726565286c6973742e6461746129206f6e636520616e6420726573657420646174612c2073697a6520616e642063617061636974792e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 450.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Evidence checklist) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 432.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20546573742067726f7774682066726f6d206361706163697479203020746f20322c207468656e20342c207468656e20382e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 414.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20466f72636520616e20616c6c6f636174696f6e206661696c7572652077686572652070726163746963616c2c206f7220646f63756d656e74207468652073616665206661696c757265206272616e63682e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 396.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f2052756e204164647265737353616e6974697a6572206f722056616c6772696e6420616e6420696e636c75646520746865207265616c206d656d6f72792d636865636b2073756d6d6172792e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+25 0 obj
+<<
+/Contents 26 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+26 0 obj
+<<
+/Length 8871
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 10) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 726.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 5 Tm
+/F2 21 Tf
+26 TL
+37.03805 0 Td
+(A5 File Design \174 A5 \055 Design the File Storage) Tj
+T*
+-37.03805 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 704.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 626.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(A5 \055 Design the File Storage) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(4) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 618.3622 cm
+Q
+q
+1 0 0 1 40.01575 577.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 555.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A5\0561 \055 Text donor file and binary stock file \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 510.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Donor records are human\055readable and may evolve\054 so a text representation is practical for inspection\054 backup and manual) Tj
+T*
+(correction\056 Stock records are fixed\055size records that are frequently accessed by position\073 a binary file makes each record) Tj
+T*
+(addressable as index\052sizeof\050Stock\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 384.9622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 113.8 Tm
+/F3 6.6 Tf
+8.6 TL
+(typedef struct \173 int group\137code\073 int units\073 \175 Stock\073) Tj
+T*
+T*
+(\057\052 Text donor record \055 delimiter characters in name\057phone must be escaped) Tj
+T*
+(   or rejected by the input validation rule\056 \052\057) Tj
+T*
+(int write\137donor\050FILE \052fp\054 const Donor \052d\051 \173) Tj
+T*
+(    return fprintf\050fp\054 \042\045d\174\045s\174\045s\174\045d\174\045s\174\04502d\057\04502d\057\04504d\134n\042\054) Tj
+T*
+(                   d\055\076id\054 d\055\076name\054 d\055\076blood\137group\054 d\055\076age\054 d\055\076phone\054) Tj
+T*
+(                   d\055\076last\137donation\056day\054 d\055\076last\137donation\056month\054) Tj
+T*
+(                   d\055\076last\137donation\056year\051 \076\075 0\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(int write\137stock\050FILE \052fp\054 const Stock \052records\054 size\137t n\051 \173) Tj
+T*
+(    return fwrite\050records\054 sizeof \052records\054 n\054 fp\051 \075\075 n\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 362.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(A5\0562 \055 Update one binary record in place \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 247.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 105.2 Tm
+/F3 6.6 Tf
+8.6 TL
+(UPDATE\137STOCK\137FILE\050fp\054 index\054 new\137units\051) Tj
+T*
+(    offset \074\055 index \052 SIZEOF\050Stock\051) Tj
+T*
+(    SEEK\050fp\054 offset\054 SEEK\137SET\051) Tj
+T*
+(    IF seek failed\072 RETURN FAILURE) Tj
+T*
+(    READ one Stock record into s) Tj
+T*
+(    IF read count is not one\072 RETURN FAILURE) Tj
+T*
+(    s\056units \074\055 new\137units) Tj
+T*
+(    SEEK\050fp\054 \055SIZEOF\050Stock\051\054 SEEK\137CUR\051   \057\057 back to this record\047s start) Tj
+T*
+(    IF seek failed\072 RETURN FAILURE) Tj
+T*
+(    WRITE s) Tj
+T*
+(    IF write count is not one\072 RETURN FAILURE) Tj
+T*
+(    RETURN SUCCESS) Tj
+T*
+(END UPDATE\137STOCK\137FILE) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 225.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Implementation note) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 193.1622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+-0.055328 Tw
+(After reading from a read\057write update stream\054 an intervening positioning operation \050fseek\051 is used before writing\056 Validate that the) Tj
+T*
+0 Tw
+(index is non\055negative\054 the offset fits the type accepted by fseek\054 and the record exists\056 Check every fseek\054 fread and fwrite result\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 171.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Alternative\072 text file rewritten after every update) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 126.1622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(A text record is variable length\054 so changing one record can shift the byte offsets of later records\056 The common safe approach is) Tj
+T*
+(to read all records\054 write a new temporary file with the change\054 then replace the original\056 That costs O\050n\051 work per update\056) Tj
+T*
+-0.123595 Tw
+(Fixed\055size binary records can be updated at a known offset in O\0501\051 record operations \050assuming the target record index is known\051\056) Tj
+T*
+0 Tw
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 75.1622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 46 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 28 510.2362 -28 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Format) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Update one known record) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 254.4488 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Portability \057 readability) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Binary fixed\055size records) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\0501\051 seek \053 read \053 write) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 254.4488 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Compact and direct access\073 tied to representation\054 field sizes\054 padding) Tj
+T*
+(and byte order unless a portable format is explicitly defined\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 46 m
+510.2362 46 l
+S
+n
+0 0 m
+0 46 l
+S
+n
+510.2362 0 m
+510.2362 46 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 28 m
+510.2362 28 l
+S
+n
+113.3858 0 m
+113.3858 46 l
+S
+n
+249.4488 0 m
+249.4488 46 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+27 0 obj
+<<
+/Contents 28 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+28 0 obj
+<<
+/Length 3534
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 11) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 730.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 46 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 28 510.2362 -28 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Format) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Update one known record) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 254.4488 32 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Portability \057 readability) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Text file rewrite) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(O\050n\051 scan\057rewrite) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 254.4488 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Readable and easier to inspect\073 variable\055length records make in\055place) Tj
+T*
+(updates awkward\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 46 m
+510.2362 46 l
+S
+n
+0 28 m
+0 46 l
+S
+n
+0 0 m
+0 28 l
+S
+n
+510.2362 28 m
+510.2362 46 l
+S
+n
+510.2362 0 m
+510.2362 28 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 28 m
+510.2362 28 l
+S
+n
+113.3858 28 m
+113.3858 46 l
+S
+n
+249.4488 28 m
+249.4488 46 l
+S
+n
+113.3858 0 m
+113.3858 28 l
+S
+n
+249.4488 0 m
+249.4488 28 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 708.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(File\055size comparison) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 663.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Binary size is approximately n\052sizeof\050Stock\051\054 including any structure padding\056 Text size depends on decimal digit counts\054) Tj
+T*
+(delimiters and line endings\054 so it is variable\056 Measure actual file sizes on the target compiler and file system rather than assuming) Tj
+T*
+(a numeric result\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 641.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Evidence checklist) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 623.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20577269746520616e642072656164206261636b20626f746820666f726d61747320616e6420636f6d70617265206576657279206669656c6420666f7220313020646f6e6f72732e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 605.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f204d6561737572652066696c652073697a652c2077726974652074696d6520616e6420726561642074696d6520666f7220312c3030302c2031302c30303020616e64203130302c303030207265636f7264732e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 587.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20557064617465207468652035302c3030307468206c6f676963616c207265636f726420616e64207265636f726420626f746820656c61707365642074696d65732e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 569.3622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f20446f63756d656e742074686520657861637420636f6d70696c65722c204f532c2073746f72616765206d656469756d20616e642074696d696e67206d6574686f642e> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+29 0 obj
+<<
+/Contents 30 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+30 0 obj
+<<
+/Length 8327
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 12) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 700.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 31 Tm
+/F2 21 Tf
+26 TL
+14.88305 0 Td
+(B1 Instrumented Recursion \174 B1 \055 Implement and) Tj
+T*
+63.6195 0 Td
+(Instrument the Recursive Functions) Tj
+T*
+-78.50255 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 678.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 600.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(B1 \055 Implement and Instrument the Recursive Functions) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(7) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 592.3622 cm
+Q
+q
+1 0 0 1 40.01575 551.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 529.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B1\0561 \055 Complete the recursive implementations \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 497.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+-0.117281 Tw
+(The TODO in power\137fast must return 1 for exponent zero\056 Otherwise it must make exactly one recursive call for exp\0572\054 square that) Tj
+T*
+0 Tw
+(result\054 and multiply by base only when the exponent is odd\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 260.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 225.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(\043include \074stdio\056h\076) Tj
+T*
+T*
+(long long calls \075 0\073) Tj
+T*
+T*
+(long long power\137linear\050long long base\054 int exp\051 \173) Tj
+T*
+(    calls\053\053\073) Tj
+T*
+(    if \050exp \075\075 0\051 return 1\073) Tj
+T*
+(    return base \052 power\137linear\050base\054 exp \055 1\051\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(long long power\137fast\050long long base\054 int exp\051 \173) Tj
+T*
+(    calls\053\053\073) Tj
+T*
+(    if \050exp \075\075 0\051 return 1\073) Tj
+T*
+(    long long half \075 power\137fast\050base\054 exp \057 2\051\073 \057\052 exactly once \052\057) Tj
+T*
+(    long long result \075 half \052 half\073) Tj
+T*
+(    return \050exp \045 2 \075\075 0\051 \077 result \072 result \052 base\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(int main\050void\051 \173) Tj
+T*
+(    calls \075 0\073) Tj
+T*
+(    long long a \075 power\137linear\0502\054 30\051\073) Tj
+T*
+(    printf\050\042linear\072 \045lld in \045lld calls\134n\042\054 a\054 calls\051\073) Tj
+T*
+(    calls \075 0\073) Tj
+T*
+(    long long b \075 power\137fast\0502\054 30\051\073) Tj
+T*
+(    printf\050\042fast \072 \045lld in \045lld calls\134n\042\054 b\054 calls\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 238.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Compilation and execution) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 216.9622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 10.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(gcc \055std\075c11 \055Wall \055Wextra \055O0 b1\056c \055o b1) Tj
+T*
+(\056\057b1) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 194.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Expected output from the faculty\055provided test) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 173.7622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 10.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(linear\072 1073741824 in 31 calls) Tj
+T*
+(fast \072 1073741824 in 6 calls) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 151.7622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B1\0561 test coverage) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 57.7622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 90 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 72 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 54 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 36 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 76 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Test) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132.5591 76 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Expected check) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(base\0757\054 exp\0750) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132.5591 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Both functions return 1\073 exactly one call\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(base\0757\054 exp\0751) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132.5591 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Both return 7\073 base case is reached next\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(base\0752\054 exp\07510) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132.5591 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Both return 1024\073 compare linear and halving call counts\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(base\0753\054 exp\0755) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132.5591 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Both return 243\073 odd\055exponent multiply\055by\055base path is exercised\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 90 m
+510.2362 90 l
+S
+n
+0 0 m
+0 90 l
+S
+n
+510.2362 0 m
+510.2362 90 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 72 m
+510.2362 72 l
+S
+n
+0 54 m
+510.2362 54 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+127.5591 0 m
+127.5591 90 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+31 0 obj
+<<
+/Contents 32 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+32 0 obj
+<<
+/Length 8424
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 13) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 740.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 36 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 22 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Test) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132.5591 22 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Expected check) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(base\0752\054 exp\07530) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 132.5591 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Matches the assignment expected output\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+0 36 l
+S
+n
+0 0 m
+0 18 l
+S
+n
+510.2362 18 m
+510.2362 36 l
+S
+n
+510.2362 0 m
+510.2362 18 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+127.5591 18 m
+127.5591 36 l
+S
+n
+127.5591 0 m
+127.5591 18 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 718.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B1\0562 \055 Compare code with pseudocode \0501 mark\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 673.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(The C implementation follows the A2 recursive design directly\072 exponent zero is the base case\073 integer division by two reduces) Tj
+T*
+(the problem\073 one half\055result is reused twice\056 The code uses a global call counter only as instrumentation for this experiment\073 a) Tj
+T*
+(production library function should instead avoid mutable global instrumentation or pass a counter pointer\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 651.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B1\0563 \055 Count calls \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 557.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 90 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 72 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 54 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 36 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 76 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Exponent n) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 76 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Linear calls n\0531) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 302.6378 76 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Halving calls floor\050log2 n\051\0532) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(10) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(11) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 302.6378 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(100) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(101) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 302.6378 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(8) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1\054000) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1\054001) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 302.6378 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(11) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(10\054000) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 118.3858 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(10\054001) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 302.6378 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(15) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 90 m
+510.2362 90 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 90 l
+S
+n
+510.2362 0 m
+510.2362 90 l
+S
+n
+0 72 m
+510.2362 72 l
+S
+n
+0 54 m
+510.2362 54 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+113.3858 0 m
+113.3858 90 l
+S
+n
+297.6378 0 m
+297.6378 90 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 512.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(For power\137fast\054 the recursive sequence is n\054 floor\050n\0572\051\054 floor\050n\0574\051\054 \056\056\056 \054 0\073 therefore the number of calls is floor\050log2 n\051\0532 for n\076\0751\056) Tj
+T*
+-0.038828 Tw
+(Linear power makes n\0531 calls\056 These are mathematical call\055count predictions\073 the linear version may fail before completing a very) Tj
+T*
+0 Tw
+(large n because of the machine call\055stack limit\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 490.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B1\0564 \055 Find the limit \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 432.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 43 Tm
+/F1 9 Tf
+13 TL
+(The exact largest exponent that succeeds is environment\055dependent\056 Do not publish a guessed crash threshold\056 Increase the) Tj
+T*
+(exponent in a controlled test\054 record the last successful and first failing value\054 compiler flags and OS\056 Stop after a) Tj
+T*
+(sanitizer\057stack\055overflow failure\073 do not treat the threshold as portable\056 The iterative version uses constant call\055stack space and) Tj
+T*
+(should complete much larger exponents subject to runtime and numeric overflow\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 410.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Repeated recursive\055call experiment) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 365.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(If the code evaluates power\137fast\050base\054 exp\0572\051 twice instead of storing half once\054 the recursive call tree branches\056 For exponent) Tj
+T*
+(30\054 the recurrence C\050n\051\0751\0532C\050floor\050n\0572\051\051\054 C\0500\051\0751\054 gives 63 calls rather than 6\056 This wastes work and changes time from O\050log n\051) Tj
+T*
+(to O\050n\051\054 while stack depth remains O\050log n\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 343.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Alternative\072 iterative square\055and\055multiply) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 261.9622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 70.8 Tm
+/F3 6.6 Tf
+8.6 TL
+(long long power\137iterative\050long long base\054 unsigned int exp\051 \173) Tj
+T*
+(    long long result \075 1\073) Tj
+T*
+(    while \050exp \076 0\051 \173) Tj
+T*
+(        if \050exp \046 1U\051 result \052\075 base\073) Tj
+T*
+(        exp \076\076\075 1U\073) Tj
+T*
+(        if \050exp \076 0\051 base \052\075 base\073) Tj
+T*
+(    \175) Tj
+T*
+(    return result\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 228.9622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+-0.100732 Tw
+(Iterative square\055and\055multiply is O\050log n\051 time and O\0501\051 stack\057auxiliary space\056 Halving recursion is O\050log n\051 time and O\050log n\051 stack\056) Tj
+T*
+0 Tw
+(Linear recursion is O\050n\051 time and O\050n\051 stack\056 All implementations must guard against signed overflow for unrestricted inputs\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 206.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 188.9622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a20423120636f6d70696c6174696f6e207769746820676363202d57616c6c202d5765787472615d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 170.9622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a204231206578706563746564206f757470757420616e642074657374207461626c655d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 152.9622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a20423120726563757273696f6e2d6c696d6974206578706572696d656e74202d20656e7465722061637475616c20726573756c745d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+33 0 obj
+<<
+/Contents 34 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+34 0 obj
+<<
+/Length 8358
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 14) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 700.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 31 Tm
+/F2 21 Tf
+26 TL
+13.09805 0 Td
+(B2 Adversarial Inputs \174 B2 \055 Engineer Adversarial) Tj
+T*
+213.024 0 Td
+(Inputs) Tj
+T*
+-226.122 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 678.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 600.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(B2 \055 Engineer Adversarial Inputs) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 592.3622 cm
+Q
+q
+1 0 0 1 40.01575 551.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 529.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Adversarial input design \0505 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 484.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(The purpose is to challenge the assumptions made by the program\072 maximum input length\054 file availability\054 command\055line shape) Tj
+T*
+(and memory ownership\056 Execution observations depend on the local compiler and platform and must be filled in after running the) Tj
+T*
+(tests\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 462.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(1\056 Overlong donor name\072 scanf versus fgets) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 320.7622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 131 Tm
+/F3 6.6 Tf
+8.6 TL
+(\057\052 Unsafe\072 if name is 32 bytes\054 an unbounded \045s can overrun it\056 \052\057) Tj
+T*
+(char name\13332\135\073) Tj
+T*
+(scanf\050\042\045s\042\054 name\051\073  \057\052 no width limit\072 do not use for untrusted input \052\057) Tj
+T*
+T*
+(\057\052 Bounded line input\056 \052\057) Tj
+T*
+(char name\13332\135\073) Tj
+T*
+(if \050fgets\050name\054 sizeof name\054 stdin\051 \041\075 NULL\051 \173) Tj
+T*
+(    size\137t len \075 strcspn\050name\054 \042\134n\042\051\073) Tj
+T*
+(    int complete \075 \050name\133len\135 \075\075 \047\134n\047\051\073) Tj
+T*
+(    name\133len\135 \075 \047\1340\047\073) Tj
+T*
+(    if \050\041complete\051 \173) Tj
+T*
+(        int ch\073) Tj
+T*
+(        while \050\050ch \075 getchar\050\051\051 \041\075 \047\134n\047 \046\046 ch \041\075 EOF\051 \173 \175) Tj
+T*
+(        \057\052 input was truncated\073 reject or ask the user to re\055enter \052\057) Tj
+T*
+(    \175) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 274.7622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(With scanf\050\042\045s\042\051 and no field width\054 an overlong token can write beyond the array\073 the behaviour is undefined\056 With fgets\054 at most) Tj
+T*
+(sizeof\050name\051\0551 characters plus the terminating null byte are stored\056 The program must detect truncation \050no newline before the) Tj
+T*
+(buffer limit\051 and either reject or deliberately handle the remainder\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 252.7622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(2\056 Missing or read\055only file) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 188.5622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 53.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(FILE \052fp \075 fopen\050\042donors\056txt\042\054 \042r\042\051\073) Tj
+T*
+(if \050fp \075\075 NULL\051 \173) Tj
+T*
+(    perror\050\042donors\056txt\042\051\073) Tj
+T*
+(    return 1\073) Tj
+T*
+(\175) Tj
+T*
+(\057\052 read records\054 check each conversion\057read result \052\057) Tj
+T*
+(if \050fclose\050fp\051 \041\075 0\051 perror\050\042fclose donors\056txt\042\051\073) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 142.5622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(A missing file should produce a diagnostic via perror and a controlled non\055zero exit\054 not a null FILE pointer dereference\056 Test) Tj
+T*
+(read\055only behaviour with a file and permissions that actually deny the attempted operation\073 elevated accounts may bypass some) Tj
+T*
+(permissions\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 120.5622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(3\056 Wrong command\055line arguments) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 62.5622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 54 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 36 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 40 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Input) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 197.7559 40 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Expected validation) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\056\057bloodbank) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 197.7559 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Reject\072 no command supplied\073 print usage\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\056\057bloodbank find O\053 extra) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 197.7559 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Reject\072 too many arguments\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 54 m
+510.2362 54 l
+S
+n
+0 0 m
+0 54 l
+S
+n
+510.2362 0 m
+510.2362 54 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+192.7559 0 m
+192.7559 54 l
+S
+Q
+Q
+Q
+
+endstream
+endobj
+35 0 obj
+<<
+/Contents 36 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+36 0 obj
+<<
+/Length 9434
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 15) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 704.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 72 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 54 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 36 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 58 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Input) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 197.7559 58 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Expected validation) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\056\057bloodbank issue A\055 xyz) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 197.7559 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Reject\072 units are not a valid positive integer\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\056\057bloodbank find Q\053) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 197.7559 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Reject\072 unsupported blood group\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\056\057bloodbank issue A\055 0) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 197.7559 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Reject\072 units must be positive\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 72 m
+510.2362 72 l
+S
+n
+0 54 m
+0 72 l
+S
+n
+0 0 m
+0 54 l
+S
+n
+510.2362 54 m
+510.2362 72 l
+S
+n
+510.2362 0 m
+510.2362 54 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 54 m
+510.2362 54 l
+S
+n
+192.7559 54 m
+192.7559 72 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+192.7559 0 m
+192.7559 54 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 682.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(4\056 Memory checking) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 618.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 53.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(gcc \055std\075c11 \055Wall \055Wextra \055g \055O1 \134) Tj
+T*
+(    \055fsanitize\075address\054undefined b2\056c \055o b2\137asan) Tj
+T*
+(\056\057b2\137asan \074 adversarial\137input\056txt) Tj
+T*
+T*
+(\043 Alternative where Valgrind is installed\072) Tj
+T*
+(gcc \055std\075c11 \055Wall \055Wextra \055g b2\056c \055o b2) Tj
+T*
+(valgrind \055\055leak\055check\075full \055\055track\055origins\075yes \056\057b2) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 585.1622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(Record each error found\054 its input that triggered it\054 the fix\054 and the clean re\055run result\056 Do not claim a clean Valgrind or sanitizer) Tj
+T*
+(run until it has actually been performed\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 563.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Alternative\072 getline\050\051 instead of fixed\055buffer fgets\050\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 505.1622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 43 Tm
+/F1 9 Tf
+13 TL
+(getline\050\051 \050POSIX\054 not ISO C11\051 can allocate or resize a heap buffer to hold the whole line\056 For a line of length L\054 reading is O\050L\051) Tj
+T*
+(time and heap space is O\050L\051\073 the caller owns the buffer and must call free\050\051\056 It avoids silent truncation but still requires checking) Tj
+T*
+(the return value\054 handling embedded delimiters and freeing memory\056 A portable C11 alternative is a carefully written growable) Tj
+T*
+(input buffer\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 483.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Experiment record \055 fill after execution) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 371.1622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 108 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 90 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 72 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 54 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 36 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 94 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Test) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 94 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Input \057 environment) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 223.2677 94 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Actual observation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 365 94 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Correction \057 evidence) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 76 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Overlong name) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 76 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Length\072 \137\137\137\137\137\137\073 buffer\072 32) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 223.2677 76 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 365 76 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Missing file) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Path\072 donors\137missing\056txt) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 223.2677 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 365 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Read\055only file) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Permissions\072 \137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 223.2677 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 365 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Bad CLI arguments) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Commands above) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 223.2677 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 365 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Sanitizer \057 Valgrind) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Tool \053 version\072 \137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 223.2677 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 365 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 108 m
+510.2362 108 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 108 l
+S
+n
+510.2362 0 m
+510.2362 108 l
+S
+n
+0 90 m
+510.2362 90 l
+S
+n
+0 72 m
+510.2362 72 l
+S
+n
+0 54 m
+510.2362 54 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+96.37795 0 m
+96.37795 108 l
+S
+n
+218.2677 0 m
+218.2677 108 l
+S
+n
+360 0 m
+360 108 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 349.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 331.1622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a204232206f7665726c6f6e6720696e70757420636f6d70617269736f6e5d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 313.1622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a20423220706572726f72206f757470757420666f72206d697373696e672066696c655d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 295.1622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a20423220696e76616c696420636f6d6d616e642d6c696e6520617267756d656e74735d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 277.1622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a2042322073616e6974697a6572206f722056616c6772696e642073756d6d6172795d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+37 0 obj
+<<
+/Contents 38 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+38 0 obj
+<<
+/Length 7965
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 16) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 726.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 5 Tm
+/F2 21 Tf
+26 TL
+24.17555 0 Td
+(B3 Text vs Binary \174 B3 \055 Text File vs Binary File) Tj
+T*
+-24.17555 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 704.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 626.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(B3 \055 Text File vs Binary File) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(8) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 618.3622 cm
+Q
+q
+1 0 0 1 40.01575 577.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 555.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B3\0561 \055 Correctness on small data \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 523.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(Write 10 donors to a text file and a binary file\054 read them back\054 and compare every field\056 Compare decoded field values\054 not raw) Tj
+T*
+(bytes from the text file\056 For binary records\054 read exactly one complete record at a time and check the count\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 501.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B3\0562 \055 Scale experiment \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 456.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Repeat for 1\054000\054 10\054000 and 100\054000 donors\056 Record file size and elapsed write\057read times\056 Keep the record set\054 compiler flags) Tj
+T*
+(and timing method identical between text and binary runs\056 Use clock\050\051 for CPU\055time comparison or a monotonic wall clock where) Tj
+T*
+(available\073 repeat several times and report the median\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 434.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B3\0563 \055 Update one record \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 402.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(Update the 50\054000th logical record\056 For the binary file\054 seek directly to the fixed\055size record offset\056 For the text file\054 safely rewrite a) Tj
+T*
+(temporary file and replace the original\073 variable\055length lines mean that a changed line may shift later offsets\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 380.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Complete the Code \055 TODO 1) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 58.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 311.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(\043include \074stdio\056h\076) Tj
+T*
+(\043include \074limits\056h\076) Tj
+T*
+T*
+(typedef struct \173 int group\137code\073 int units\073 \175 Stock\073) Tj
+T*
+T*
+(\057\052 index is zero\055based\072 index 3 is the fourth record\056 \052\057) Tj
+T*
+(int update\137units\050FILE \052fp\054 int index\054 int units\051) Tj
+T*
+(\173) Tj
+T*
+(    Stock s\073) Tj
+T*
+(    if \050fp \075\075 NULL \174\174 index \074 0\051 return 0\073) Tj
+T*
+(    if \050\050unsigned long long\051index \076 \050unsigned long long\051LONG\137MAX \057 sizeof s\051) Tj
+T*
+(        return 0\073) Tj
+T*
+(    long offset \075 \050long\051\050\050unsigned long long\051index \052 sizeof s\051\073) Tj
+T*
+(    if \050fseek\050fp\054 offset\054 SEEK\137SET\051 \041\075 0\051 return 0\073) Tj
+T*
+(    if \050fread\050\046s\054 sizeof s\054 1\054 fp\051 \041\075 1\051 return 0\073) Tj
+T*
+(    s\056units \075 units\073) Tj
+T*
+(    if \050fseek\050fp\054 \055\050long\051sizeof s\054 SEEK\137CUR\051 \041\075 0\051 return 0\073) Tj
+T*
+(    if \050fwrite\050\046s\054 sizeof s\054 1\054 fp\051 \041\075 1\051 return 0\073) Tj
+T*
+(    return 1\073) Tj
+T*
+(\175) Tj
+T*
+T*
+(int main\050void\051) Tj
+T*
+(\173) Tj
+T*
+(    FILE \052fp \075 tmpfile\050\051\073) Tj
+T*
+(    if \050fp \075\075 NULL\051 \173 perror\050\042tmpfile\042\051\073 return 1\073 \175) Tj
+T*
+(    Stock initial\1335\135 \075 \173\1731\05440\175\054\1732\05425\175\054\1733\05412\175\054\1734\0548\175\054\1735\05430\175\175\073) Tj
+T*
+(    if \050fwrite\050initial\054 sizeof \052initial\054 5\054 fp\051 \041\075 5\051 \173) Tj
+T*
+(        perror\050\042fwrite\042\051\073 fclose\050fp\051\073 return 1\073) Tj
+T*
+(    \175) Tj
+T*
+(    printf\050\042update record 3\072 \045s\134n\042\054 update\137units\050fp\054 3\054 20\051 \077 \042done\042 \072 \042failed\042\051\073) Tj
+T*
+(    printf\050\042update record 9\072 \045s\134n\042\054 update\137units\050fp\054 9\054 20\051 \077 \042done\042 \072 \042failed\042\051\073) Tj
+T*
+(    rewind\050fp\051\073) Tj
+T*
+(    Stock s\073) Tj
+T*
+(    while \050fread\050\046s\054 sizeof s\054 1\054 fp\051 \075\075 1\051) Tj
+T*
+(        printf\050\042\045d\072\045d \042\054 s\056group\137code\054 s\056units\051\073) Tj
+T*
+(    printf\050\042\134n\042\051\073) Tj
+T*
+(    fclose\050fp\051\073) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+39 0 obj
+<<
+/Contents 40 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+40 0 obj
+<<
+/Length 10825
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 17) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 759.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 10.6 Tm
+/F3 6.6 Tf
+8.6 TL
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 737.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Compile command and expected output) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 681.5622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 45 Tm
+/F3 6.6 Tf
+8.6 TL
+(gcc \055std\075c11 \055Wall \055Wextra \055O2 b3\056c \055o b3) Tj
+T*
+(\056\057b3) Tj
+T*
+T*
+(update record 3\072 done) Tj
+T*
+(update record 9\072 failed) Tj
+T*
+(1\07240 2\07225 3\07212 4\07220 5\07230) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 635.5622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Record 9 fails because the file has only five records\056 The seek may position beyond the end\054 but fread cannot read a complete) Tj
+T*
+(Stock record there\054 so the function returns failure before changing or writing anything\056 The file remains unchanged\056 Index 3 is) Tj
+T*
+(zero\055based and therefore updates the fourth record \050group\137code 4\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 613.5622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B3\0564 \055 Engineering trade\055off \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 509.5622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 100 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 82 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 64 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 46 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 28 510.2362 -28 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 86 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Criterion) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 86 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Text records) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 308.3071 86 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Binary fixed\055size records) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Readability) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Human\055readable\073 easy to inspect\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 308.3071 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Not directly human\055readable\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Direct update) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Usually requires rewrite due to variable line lengths\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 308.3071 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Can seek to a known record offset\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Size and speed) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(More formatting overhead\073 conversion cost\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 308.3071 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Often compact and fast for fixed records\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Portability) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 101.378 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(More portable across compilers and machine) Tj
+T*
+(representations\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 308.3071 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(May vary with endianness\054 padding and integer) Tj
+T*
+(representation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 100 m
+510.2362 100 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 100 l
+S
+n
+510.2362 0 m
+510.2362 100 l
+S
+n
+0 82 m
+510.2362 82 l
+S
+n
+0 64 m
+510.2362 64 l
+S
+n
+0 46 m
+510.2362 46 l
+S
+n
+0 28 m
+510.2362 28 l
+S
+n
+96.37795 0 m
+96.37795 100 l
+S
+n
+303.3071 0 m
+303.3071 100 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 487.5622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(One fwrite for an entire array vs one call per record) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 442.5622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Both approaches write O\050n\051 bytes\054 so asymptotic time remains O\050n\051\056 A single fwrite reduces library\055call overhead but requires the) Tj
+T*
+(complete array in memory \050O\050n\051 extra memory for the batch\051\056 Per\055record writes can stream with O\0501\051 buffer space but make n) Tj
+T*
+(library calls\056 For large data\054 choose based on memory limits\054 error handling and measured throughput\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 420.5622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Measurement table \055 enter actual results) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 298.5622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 118 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 100 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 82 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 64 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 46 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 28 510.2362 -28 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 104 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Records) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73.0315 104 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Text bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 155.2362 104 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Binary bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 237.4409 104 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Text write\057read ms) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 376.3386 104 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Binary write\057read ms) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 86 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(10) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73.0315 86 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 155.2362 86 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 237.4409 86 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 \057 \137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 376.3386 86 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 \057 \137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(1\054000) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73.0315 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 155.2362 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 237.4409 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 \057 \137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 376.3386 68 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 \057 \137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(10\054000) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73.0315 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 155.2362 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 237.4409 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 \057 \137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 376.3386 50 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 \057 \137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(100\054000) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73.0315 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 155.2362 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 237.4409 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 \057 \137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 376.3386 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 \057 \137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Update record) Tj
+T*
+(50\054000) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 73.0315 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(N\057A) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 155.2362 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(N\057A) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 237.4409 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 ms) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 376.3386 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137 ms) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 118 m
+510.2362 118 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 118 l
+S
+n
+510.2362 0 m
+510.2362 118 l
+S
+n
+0 100 m
+510.2362 100 l
+S
+n
+0 82 m
+510.2362 82 l
+S
+n
+0 64 m
+510.2362 64 l
+S
+n
+0 46 m
+510.2362 46 l
+S
+n
+0 28 m
+510.2362 28 l
+S
+n
+68.0315 0 m
+68.0315 118 l
+S
+n
+150.2362 0 m
+150.2362 118 l
+S
+n
+232.4409 0 m
+232.4409 118 l
+S
+n
+371.3386 0 m
+371.3386 118 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 276.5622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 258.5622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a20423320746578742f62696e61727920726561642d6261636b20657175616c6974795d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 240.5622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a204233206d656173757265642066696c652073697a657320616e642074696d696e67735d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 222.5622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a20423320696e2d706c61636520757064617465206f75747075745d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+
+endstream
+endobj
+41 0 obj
+<<
+/Contents 42 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+42 0 obj
+<<
+/Length 8159
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 18) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 762.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+200.107 0 Td
+(CSA02 \055 ASSIGNMENT 5) Tj
+T*
+-200.107 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 700.3622 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 31 Tm
+/F2 21 Tf
+26 TL
+50.45705 0 Td
+(B4 Final Engineering Decision \174 B4 \055 Final) Tj
+T*
+99.8025 0 Td
+(Engineering Decision) Tj
+T*
+-150.2595 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 678.3622 cm
+q
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 0 4 Tm
+/F1 10 Tf
+14 TL
+120.912 0 Td
+(Modular\054 Memory\055Aware and Persistent Program Engineering) Tj
+T*
+-120.912 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 42.51969 600.3622 cm
+q
+0.917647 0.94902 0.960784 rg
+n
+0 68 65.19685 -68 re
+f*
+0.917647 0.94902 0.960784 rg
+n
+255.1181 68 65.19685 -51 re
+f*
+0 0 0 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 4 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Student) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(R\056 Surya) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 55 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Register No\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 55 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(1924260114) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Course) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CSA02 \055 C Programming) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 38 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Outcome) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 38 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(CO5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Task) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(B4 \055 Final Engineering Decision) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 259.1181 21 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(Marks) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 324.315 21 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+(5) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 4 4 cm
+q
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F2 7.2 Tf
+9 TL
+(GitHub link) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 69.19685 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 1.8 Tm
+/F1 7.2 Tf
+9 TL
+() Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.839216 0.886275 0.909804 RG
+0.35 w
+n
+0 68 m
+510.2362 68 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 68 l
+S
+n
+510.2362 0 m
+510.2362 68 l
+S
+n
+0 51 m
+510.2362 51 l
+S
+n
+0 34 m
+510.2362 34 l
+S
+n
+0 17 m
+510.2362 17 l
+S
+n
+65.19685 0 m
+65.19685 68 l
+S
+n
+255.1181 17 m
+255.1181 68 l
+S
+n
+320.315 17 m
+320.315 68 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 592.3622 cm
+Q
+q
+1 0 0 1 40.01575 551.3622 cm
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+0.917647 0.94902 0.960784 rg
+n
+-6 -6 527.2441 48 re
+B*
+Q
+q
+BT
+1 0 0 1 0 27.5 Tm
+12 TL
+/F2 8.5 Tf
+0.090196 0.196078 0.301961 rg
+(Repository note\072 The URL above is the exact link supplied earlier\056 The faculty naming rule for this assignment is) Tj
+T*
+(CSA02\0551924260114\055Assignment5) Tj
+(\073 the supplied link currently names Assignment 4\056 Confirm the Assignment 5 repository URL) Tj
+T*
+(before submission\056 No submission date is inserted\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 529.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B4\0561 \055 Practical report strategy \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 484.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Load the donor records into a growable array\054 validate each row\054 and scan once to build the nightly report\056 The example below) Tj
+T*
+(uses policy inputs from the command line because the assignment does not specify age or donation\055interval thresholds\056 These) Tj
+T*
+(must be supplied from the course\055approved\057official policy\073 do not treat example arguments as medical guidance\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 452.3622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 17 Tm
+/F1 9 Tf
+13 TL
+(Sample CSV schema\072 id\054name\054blood\137group\054age\054phone\054year\054month\054day\056 Names in this simple CSV example must not contain) Tj
+T*
+(commas\056 A production CSV parser should support quoting and escaping\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 412.9622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 27.8 Tm
+/F3 6.6 Tf
+8.6 TL
+(7001\054Anita\054O\053\05427\0549876500001\0542026\05401\05410) Tj
+T*
+(7002\054Manoj\054A\055\05434\0549876500002\0542026\05401\05404) Tj
+T*
+(7003\054Rekha\054B\053\05442\0549876500003\0542025\05412\05420) Tj
+T*
+(7004\054Arun\054AB\053\05429\0549876500004\0542026\05401\05412) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 390.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Complete sample report program) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 55.8622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 325.4 Tm
+/F3 5.7 Tf
+7.7 TL
+(\043include \074stdio\056h\076) Tj
+T*
+(\043include \074stdlib\056h\076) Tj
+T*
+(\043include \074string\056h\076) Tj
+T*
+(\043include \074stdint\056h\076) Tj
+T*
+(\043include \074time\056h\076) Tj
+T*
+T*
+(typedef struct \173 int year\054 month\054 day\073 \175 Date\073) Tj
+T*
+(typedef struct \173) Tj
+T*
+(    int id\073) Tj
+T*
+(    char name\13364\135\073) Tj
+T*
+(    char group\1334\135\073) Tj
+T*
+(    int age\073) Tj
+T*
+(    char phone\13316\135\073) Tj
+T*
+(    Date last\137donation\073) Tj
+T*
+(\175 Donor\073) Tj
+T*
+(typedef struct \173 Donor \052data\073 size\137t size\054 capacity\073 \175 DonorList\073) Tj
+T*
+(typedef struct \173 int min\137age\054 max\137age\054 min\137gap\137days\073 \175 EligibilityPolicy\073) Tj
+T*
+T*
+(static int leap\050int y\051 \173) Tj
+T*
+(    return \050y \045 400 \075\075 0\051 \174\174 \050y \045 4 \075\075 0 \046\046 y \045 100 \041\075 0\051\073) Tj
+T*
+(\175) Tj
+T*
+(static int valid\137date\050Date d\051 \173) Tj
+T*
+(    static const int mdays\133\135 \075 \1730\05431\05428\05431\05430\05431\05430\05431\05431\05430\05431\05430\05431\175\073) Tj
+T*
+(    if \050d\056year \074 1 \174\174 d\056month \074 1 \174\174 d\056month \076 12 \174\174 d\056day \074 1\051 return 0\073) Tj
+T*
+(    int limit \075 mdays\133d\056month\135 \053 \050d\056month \075\075 2 \046\046 leap\050d\056year\051\051\073) Tj
+T*
+(    return d\056day \074\075 limit\073) Tj
+T*
+(\175) Tj
+T*
+(\057\052 Gregorian date to a serial day number\056 \052\057) Tj
+T*
+(static long long day\137number\050Date d\051 \173) Tj
+T*
+(    int y \075 d\056year \055 \050d\056month \074\075 2\051\073) Tj
+T*
+(    int era \075 \050y \076\075 0 \077 y \072 y \055 399\051 \057 400\073) Tj
+T*
+(    unsigned yoe \075 \050unsigned\051\050y \055 era \052 400\051\073) Tj
+T*
+(    unsigned mp \075 \050unsigned\051\050d\056month \053 \050d\056month \076 2 \077 \0553 \072 9\051\051\073) Tj
+T*
+(    unsigned doy \075 \050153 \052 mp \053 2\051 \057 5 \053 \050unsigned\051d\056day \055 1\073) Tj
+T*
+(    unsigned doe \075 yoe \052 365 \053 yoe \057 4 \055 yoe \057 100 \053 doy\073) Tj
+T*
+(    return \050long long\051era \052 146097 \053 \050long long\051doe\073) Tj
+T*
+(\175) Tj
+T*
+(static int add\137donor\050DonorList \052list\054 const Donor \052d\051 \173) Tj
+T*
+(    if \050list \075\075 NULL \174\174 d \075\075 NULL\051 return 0\073) Tj
+T*
+(    if \050list\055\076size \075\075 list\055\076capacity\051 \173) Tj
+T*
+(        size\137t cap \075 list\055\076capacity \075\075 0 \077 2 \072 list\055\076capacity \052 2\073) Tj
+T*
+(        if \050cap \074 list\055\076capacity \174\174 cap \076 SIZE\137MAX \057 sizeof \052list\055\076data\051 return 0\073) Tj
+T*
+(        Donor \052tmp \075 realloc\050list\055\076data\054 cap \052 sizeof \052list\055\076data\051\073) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+43 0 obj
+<<
+/Contents 44 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+44 0 obj
+<<
+/Length 7558
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 19) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 191.1622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 579.5 Tm
+/F3 5.7 Tf
+7.7 TL
+(        if \050tmp \075\075 NULL\051 return 0\073) Tj
+T*
+(        list\055\076data \075 tmp\073) Tj
+T*
+(        list\055\076capacity \075 cap\073) Tj
+T*
+(    \175) Tj
+T*
+(    list\055\076data\133list\055\076size\053\053\135 \075 \052d\073) Tj
+T*
+(    return 1\073) Tj
+T*
+(\175) Tj
+T*
+(static int load\137csv\050const char \052path\054 DonorList \052list\051 \173) Tj
+T*
+(    FILE \052fp \075 fopen\050path\054 \042r\042\051\073) Tj
+T*
+(    if \050fp \075\075 NULL\051 \173 perror\050path\051\073 return 0\073 \175) Tj
+T*
+(    char line\133256\135\073) Tj
+T*
+(    while \050fgets\050line\054 sizeof line\054 fp\051 \041\075 NULL\051 \173) Tj
+T*
+(        Donor d\073) Tj
+T*
+(        int y\054 m\054 day\073) Tj
+T*
+(        if \050sscanf\050line\054 \042\045d\054\04563\133\136\054\135\054\0453\133\136\054\135\054\045d\054\04515\133\136\054\135\054\045d\054\045d\054\045d\042\054) Tj
+T*
+(                   \046d\056id\054 d\056name\054 d\056group\054 \046d\056age\054 d\056phone\054 \046y\054 \046m\054 \046day\051 \041\075 8\051 \173) Tj
+T*
+(            fprintf\050stderr\054 \042Skipping invalid donor row\072 \045s\042\054 line\051\073) Tj
+T*
+(            continue\073) Tj
+T*
+(        \175) Tj
+T*
+(        d\056last\137donation \075 \050Date\051\173y\054 m\054 day\175\073) Tj
+T*
+(        if \050\041valid\137date\050d\056last\137donation\051 \174\174 \041add\137donor\050list\054 \046d\051\051 \173) Tj
+T*
+(            fprintf\050stderr\054 \042Invalid date or allocation failure for donor \045d\134n\042\054 d\056id\051\073) Tj
+T*
+(            fclose\050fp\051\073 return 0\073) Tj
+T*
+(        \175) Tj
+T*
+(    \175) Tj
+T*
+(    if \050ferror\050fp\051\051 \173 perror\050\042read donors\042\051\073 fclose\050fp\051\073 return 0\073 \175) Tj
+T*
+(    return fclose\050fp\051 \075\075 0\073) Tj
+T*
+(\175) Tj
+T*
+(\057\052 Policy values are command\055line inputs\073 the assignment gives no eligibility) Tj
+T*
+(   thresholds\056 Use only faculty\057officially approved values in a real report\056 \052\057) Tj
+T*
+(static int due\137within\137week\050const Donor \052d\054 Date today\054 EligibilityPolicy p\051 \173) Tj
+T*
+(    if \050d\055\076age \074 p\056min\137age \174\174 d\055\076age \076 p\056max\137age\051 return 0\073) Tj
+T*
+(    long long elapsed \075 day\137number\050today\051 \055 day\137number\050d\055\076last\137donation\051\073) Tj
+T*
+(    long long days\137until\137due \075 \050long long\051p\056min\137gap\137days \055 elapsed\073) Tj
+T*
+(    return days\137until\137due \076\075 0 \046\046 days\137until\137due \074\075 7\073) Tj
+T*
+(\175) Tj
+T*
+(static int parse\137int\050const char \052s\054 int \052out\051 \173) Tj
+T*
+(    char \052end \075 NULL\073 long v \075 strtol\050s\054 \046end\054 10\051\073) Tj
+T*
+(    if \050s\1330\135 \075\075 \047\1340\047 \174\174 \052end \041\075 \047\1340\047 \174\174 v \074 INT32\137MIN \174\174 v \076 INT32\137MAX\051 return 0\073) Tj
+T*
+(    \052out \075 \050int\051v\073 return 1\073) Tj
+T*
+(\175) Tj
+T*
+(int main\050int argc\054 char \052\052argv\051 \173) Tj
+T*
+(    if \050argc \041\075 8\051 \173) Tj
+T*
+(        fprintf\050stderr\054 \042Usage\072 \045s donors\056csv YYYY MM DD MIN\137AGE MAX\137AGE MIN\137GAP\137DAYS\134n\042\054 argv\1330\135\051\073) Tj
+T*
+(        return 2\073) Tj
+T*
+(    \175) Tj
+T*
+(    Date today\073 EligibilityPolicy policy\073) Tj
+T*
+(    if \050\041parse\137int\050argv\1332\135\054 \046today\056year\051 \174\174 \041parse\137int\050argv\1333\135\054 \046today\056month\051 \174\174) Tj
+T*
+(        \041parse\137int\050argv\1334\135\054 \046today\056day\051 \174\174 \041parse\137int\050argv\1335\135\054 \046policy\056min\137age\051 \174\174) Tj
+T*
+(        \041parse\137int\050argv\1336\135\054 \046policy\056max\137age\051 \174\174 \041parse\137int\050argv\1337\135\054 \046policy\056min\137gap\137days\051 \174\174) Tj
+T*
+(        \041valid\137date\050today\051 \174\174 policy\056min\137age \074 0 \174\174 policy\056max\137age \074 policy\056min\137age \174\174) Tj
+T*
+(        policy\056min\137gap\137days \074 0\051 \173) Tj
+T*
+(        fprintf\050stderr\054 \042Invalid date or policy arguments\134n\042\051\073 return 2\073) Tj
+T*
+(    \175) Tj
+T*
+(    DonorList list \075 \173NULL\054 0\054 0\175\073) Tj
+T*
+(    clock\137t start \075 clock\050\051\073) Tj
+T*
+(    if \050\041load\137csv\050argv\1331\135\054 \046list\051\051 \173 free\050list\056data\051\073 return 1\073 \175) Tj
+T*
+(    clock\137t loaded \075 clock\050\051\073) Tj
+T*
+(    size\137t matches \075 0\073) Tj
+T*
+(    printf\050\042Eligible in next 7 days \050policy\055configured\051\072\134n\042\051\073) Tj
+T*
+(    for \050size\137t i \075 0\073 i \074 list\056size\073 \053\053i\051 \173) Tj
+T*
+(        if \050due\137within\137week\050\046list\056data\133i\135\054 today\054 policy\051\051 \173) Tj
+T*
+(            printf\050\042\045d \174 \045s \174 \045s\134n\042\054 list\056data\133i\135\056id\054) Tj
+T*
+(                   list\056data\133i\135\056name\054 list\056data\133i\135\056group\051\073) Tj
+T*
+(            \053\053matches\073) Tj
+T*
+(        \175) Tj
+T*
+(    \175) Tj
+T*
+(    clock\137t finished \075 clock\050\051\073) Tj
+T*
+(    printf\050\042records\075\045zu matches\075\045zu capacity\075\045zu array\137bytes\075\045zu\134n\042\054) Tj
+T*
+(           list\056size\054 matches\054 list\056capacity\054 list\056capacity \052 sizeof \052list\056data\051\073) Tj
+T*
+(    printf\050\042load\137cpu\137ms\075\045\0563f report\137cpu\137ms\075\045\0563f\134n\042\054) Tj
+T*
+(           1000\0560 \052 \050loaded \055 start\051 \057 CLOCKS\137PER\137SEC\054) Tj
+T*
+(           1000\0560 \052 \050finished \055 loaded\051 \057 CLOCKS\137PER\137SEC\051\073) Tj
+T*
+(    free\050list\056data\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 169.1622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Compile and run) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 96.3622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 62.2 Tm
+/F3 6.6 Tf
+8.6 TL
+(gcc \055std\075c11 \055Wall \055Wextra \055O2 b4\056c \055o b4) Tj
+T*
+(\056\057b4 donors\056csv 2026 01 17 MIN\137AGE MAX\137AGE MIN\137GAP\137DAYS) Tj
+T*
+T*
+(Replace MIN\137AGE\054 MAX\137AGE and MIN\137GAP\137DAYS with the approved policy values\056) Tj
+T*
+(The program reports candidates whose configured due date falls from today) Tj
+T*
+(through the next seven days\056 It prints array capacity and approximate) Tj
+T*
+(payload bytes \050capacity \052 sizeof\050Donor\051\051\056 Test\055only policy values 18\054 65\054 10) Tj
+T*
+(are used in the sample output below\073 they are not medical guidance\056) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 74.3622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Example output for the sample input and test\055only policy \0502026\05501\05517\054 18\054 65\054 10\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 61.7622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 2 Tm
+/F3 6.6 Tf
+8.6 TL
+(Eligible in next 7 days \050policy\055configured\051\072) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+45 0 obj
+<<
+/Contents 46 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+46 0 obj
+<<
+/Length 9931
+>>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+0.839216 0.886275 0.909804 RG
+0.5 w
+n
+48.18898 799.3701 m
+547.0866 799.3701 l
+S
+BT
+/F2 7 Tf
+8.4 TL
+ET
+0.090196 0.196078 0.301961 rg
+BT
+1 0 0 1 48.18898 809.2913 Tm
+(CSA02 \174 C PROGRAMMING \174 CO5 ASSIGNMENT 5) Tj
+T*
+ET
+BT
+/F1 7 Tf
+8.4 TL
+ET
+0.356863 0.403922 0.439216 rg
+BT
+1 0 0 1 48.18898 28.34646 Tm
+(Prepared for R\056 Surya \174 Register No\056 1924260114) Tj
+T*
+ET
+BT
+1 0 0 1 521.0116 28.34646 Tm
+(Page 20) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 741.9622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 27.8 Tm
+/F3 6.6 Tf
+8.6 TL
+(7001 \174 Anita \174 O\053) Tj
+T*
+(7004 \174 Arun \174 AB\053) Tj
+T*
+(records\0754 matches\0752 capacity\0754 array\137bytes\075416 \050this GCC build\051) Tj
+T*
+(load\137cpu\137ms\075\074machine\055dependent\076 report\137cpu\137ms\075\074machine\055dependent\076) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 719.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B4\0562 \055 Memory safety \0501 mark\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 674.9622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(The program has one owner for list\056data\056 On load failure it frees the allocation before returning\073 on normal completion it frees the) Tj
+T*
+(array once\056 It uses a temporary pointer inside realloc and validates the capacity multiplication\056 Run AddressSanitizer or Valgrind) Tj
+T*
+(and paste the actual report\073 the code text alone is not proof of a clean run\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 626.9622 cm
+0.090196 0.129412 0.168627 rg
+BT
+1 0 0 1 4 36.4 Tm
+/F3 6.6 Tf
+8.6 TL
+(gcc \055std\075c11 \055Wall \055Wextra \055g \055fsanitize\075address\054undefined b4\056c \055o b4\137asan) Tj
+T*
+(\056\057b4\137asan donors\056csv YYYY MM DD MIN\137AGE MAX\137AGE MIN\137GAP\137DAYS) Tj
+T*
+T*
+(\043 Or\072) Tj
+T*
+(valgrind \055\055leak\055check\075full \055\055track\055origins\075yes \056\057b4 donors\056csv \056\056\056) Tj
+T*
+ET
+Q
+q
+1 0 0 1 40.01575 604.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(B4\0563 \055 Production decision \0502 marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 498.9622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 102 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 84 510.2362 -28 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 56 510.2362 -28 re
+f*
+1 1 1 rg
+n
+0 28 510.2362 -28 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 88 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Choice) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 88 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Time \057 memory) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 305.4724 88 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(When suitable) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 70 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Keep all donors in memory) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 70 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Load O\050n\051\054 nightly scan O\050n\051\054 memory O\050n\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 305.4724 60 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Use if measured resident memory fits comfortably with) Tj
+T*
+(headroom and reports need full scans\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 42 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Read in batches) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Scan O\050n\051 per report\073 working memory O\050batch) Tj
+T*
+(size\051\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 305.4724 32 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Use when full dataset is larger than the memory budget) Tj
+T*
+(and sequential scans are acceptable\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 14 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Separate sorted index file) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 124.0551 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Lookup by indexed key can be O\050log n\051 file reads\073) Tj
+T*
+(low resident memory\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 305.4724 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 12.3 Tm
+/F1 7.7 Tf
+10 TL
+(Use when targeted lookups dominate and index) Tj
+T*
+(maintenance\057consistency can be guaranteed\056) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 102 m
+510.2362 102 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 102 l
+S
+n
+510.2362 0 m
+510.2362 102 l
+S
+n
+0 84 m
+510.2362 84 l
+S
+n
+0 56 m
+510.2362 56 l
+S
+n
+0 28 m
+510.2362 28 l
+S
+n
+119.0551 0 m
+119.0551 102 l
+S
+n
+300.4724 0 m
+300.4724 102 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 453.9622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(Recommendation\072 begin with a growable array if the measured peak footprint \050capacity \052 sizeof\050Donor\051\054 plus allocator overhead) Tj
+T*
+(and other program state\051 fits within the deployment memory budget with safety margin\056 If not\054 process records in batches or) Tj
+T*
+(maintain a separate on\055disk index\056 The final production choice must cite actual record count\054 memory and timing measurements\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 431.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Measurement \057 validation record \055 fill after execution) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 283.9622 cm
+q
+0.090196 0.196078 0.301961 rg
+n
+0 144 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 126 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 108 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 90 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 72 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 54 510.2362 -18 re
+f*
+0.968627 0.980392 0.984314 rg
+n
+0 36 510.2362 -18 re
+f*
+1 1 1 rg
+n
+0 18 510.2362 -18 re
+f*
+1 1 1 rg
+BT
+/F1 10 Tf
+12 TL
+ET
+q
+1 0 0 1 5 130 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Measure) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 192.0866 130 cm
+q
+1 1 1 rg
+BT
+1 0 0 1 0 2 Tm
+/F2 8 Tf
+10 TL
+(Actual result) Tj
+T*
+ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 5 112 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Donor rows loaded) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 192.0866 112 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 94 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Capacity \057 sizeof\050Donor\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 192.0866 94 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 76 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Array payload bytes) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 192.0866 76 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Load CPU time) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 192.0866 58 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Report CPU time) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 192.0866 40 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Sanitizer \057 Valgrind result) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 192.0866 22 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 5 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(Approved policy source \057 version) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 192.0866 4 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 2.3 Tm
+/F1 7.7 Tf
+10 TL
+(\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137\137) Tj
+T*
+ET
+Q
+Q
+q
+1 J
+1 j
+0.776471 0.819608 0.847059 RG
+0.4 w
+n
+0 144 m
+510.2362 144 l
+S
+n
+0 0 m
+510.2362 0 l
+S
+n
+0 0 m
+0 144 l
+S
+n
+510.2362 0 m
+510.2362 144 l
+S
+n
+0 126 m
+510.2362 126 l
+S
+n
+0 108 m
+510.2362 108 l
+S
+n
+0 90 m
+510.2362 90 l
+S
+n
+0 72 m
+510.2362 72 l
+S
+n
+0 54 m
+510.2362 54 l
+S
+n
+0 36 m
+510.2362 36 l
+S
+n
+0 18 m
+510.2362 18 l
+S
+n
+187.0866 0 m
+187.0866 144 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 40.01575 261.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Screenshot placeholders) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 243.9622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a204234207265706f7274206f757470757420666f72207468652073616d706c65206461746120616e6420617070726f76656420706f6c6963795d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 225.9622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a204234206d656d6f727920757361676520616e642074696d696e675d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 207.9622 cm
+q
+BT
+1 0 0 1 12 3.3 Tm
+-7 0 Td
+12 TL
+/F1 8.7 Tf
+0.121569 0.160784 0.2 rg
+<7f205b494e534552542053435245454e53484f543a20423420636c65616e2073616e6974697a6572206f722056616c6772696e64206f75747075745d> Tj
+T*
+7 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 185.9622 cm
+q
+0.078431 0.490196 0.517647 rg
+BT
+1 0 0 1 0 2.5 Tm
+/F2 11.5 Tf
+14 TL
+(Important interpretation) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 40.01575 140.9622 cm
+q
+0.121569 0.160784 0.2 rg
+BT
+1 0 0 1 0 30 Tm
+/F1 9 Tf
+13 TL
+(The assignment does not provide a donation interval\054 age limits\054 current donor count\054 memory budget or experimental) Tj
+T*
+(measurements\056 The program therefore takes the eligibility parameters as explicit inputs and leaves the production decision) Tj
+T*
+(evidence table blank rather than inventing policy thresholds or performance results\056) Tj
+T*
+ET
+Q
+Q
+
+endstream
+endobj
+47 0 obj
+<<
+/Author (R\056 Surya)
+/CreationDate (D\07220261119145648\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261119145648\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (CSA02 Assignment 5 \055 All Tasks)
+/Trapped (\057False)
+>>
+endobj
+xref
+0 48
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000275 00000 n 
+0000000474 00000 n 
+0000004851 00000 n 
+0000004902 00000 n 
+0000005009 00000 n 
+0000005121 00000 n 
+0000005226 00000 n 
+0000005426 00000 n 
+0000014781 00000 n 
+0000014982 00000 n 
+0000025014 00000 n 
+0000025215 00000 n 
+0000034448 00000 n 
+0000034649 00000 n 
+0000038682 00000 n 
+0000038883 00000 n 
+0000047697 00000 n 
+0000047898 00000 n 
+0000051341 00000 n 
+0000051542 00000 n 
+0000059616 00000 n 
+0000059817 00000 n 
+0000066822 00000 n 
+0000067023 00000 n 
+0000075947 00000 n 
+0000076148 00000 n 
+0000079735 00000 n 
+0000079936 00000 n 
+0000088316 00000 n 
+0000088517 00000 n 
+0000096994 00000 n 
+0000097195 00000 n 
+0000105606 00000 n 
+0000105807 00000 n 
+0000115294 00000 n 
+0000115495 00000 n 
+0000123513 00000 n 
+0000123714 00000 n 
+0000134593 00000 n 
+0000134794 00000 n 
+0000143006 00000 n 
+0000143207 00000 n 
+0000150818 00000 n 
+0000151019 00000 n 
+0000161003 00000 n 
+trailer
+<<
+/Size 48
+/Root 1 0 R
+/Info 47 0 R
+/ID [ <fcb495eb14523f1b260e15b955c56ec9> <fcb495eb14523f1b260e15b955c56ec9> ]
+>>
+startxref
+161343
+%%EOF
